@@ -1,0 +1,14 @@
+<project name="Nov30" threads="1" pubsub="auto" heartbeat-interval="1" luaroot="@ESP_PROJECT_OUTPUT@/luaroot">
+  <metadata>
+    <meta id="layout">{}</meta>
+    <meta id="studioUploadedBy">sastest1</meta>
+    <meta id="studioUploaded">1701338415806</meta>
+    <meta id="studioModifiedBy">sastest1</meta>
+    <meta id="studioModified">1701344776429</meta>
+    <meta id="studioTags">test1</meta>
+    <meta id="studioVersionNotes">c</meta>
+  </metadata>
+  <contqueries>
+    <contquery name="cq1"/>
+  </contqueries>
+</project>
